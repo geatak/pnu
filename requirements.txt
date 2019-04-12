@@ -1,6 +1,0 @@
-django~=2.1.0
-django-extensions~=2.1.0
-
-django-heroku
-gunicorn
-psycopg2
